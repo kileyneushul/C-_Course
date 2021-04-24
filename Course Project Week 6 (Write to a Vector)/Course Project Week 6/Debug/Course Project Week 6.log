@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Kiley Neushul\Desktop\Course Project Week 6\Course Project Week 6\Source.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kiley Neushul\Desktop\Course Project Week 6\Course Project Week 6\Source.cpp(195,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kiley Neushul\Desktop\Course Project Week 6\Course Project Week 6\Source.cpp(203,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kiley Neushul\Desktop\Course Project Week 6\Course Project Week 6\Source.cpp(220,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kiley Neushul\Desktop\Course Project Week 6\Course Project Week 6\Source.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kiley Neushul\Desktop\Course Project Week 6\Course Project Week 6\Source.cpp(242,20): warning C4018: '<': signed/unsigned mismatch
+  Course Project Week 6.vcxproj -> C:\Users\Kiley Neushul\Desktop\Course Project Week 6\Debug\Course Project Week 6.exe

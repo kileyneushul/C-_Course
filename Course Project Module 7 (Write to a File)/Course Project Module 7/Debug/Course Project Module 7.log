@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(37,13): warning C4101: 'minutes': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(34,16): warning C4101: 'servings': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(34,6): warning C4101: 'cookTime': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(37,6): warning C4101: 'hours': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(223,15): warning C4101: 'minutes': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(221,8): warning C4101: 'cookTime': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(223,8): warning C4101: 'hours': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(283,7): warning C4101: 'cookTime': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(329,13): warning C4101: 'minutes': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(327,6): warning C4101: 'cookTime': unreferenced local variable
+C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Course Project Module 7\Source.cpp(329,6): warning C4101: 'hours': unreferenced local variable
+  Course Project Module 7.vcxproj -> C:\Users\Kiley Neushul\Desktop\Course Project Module 7\Debug\Course Project Module 7.exe
